@@ -1,6 +1,6 @@
 # Sudoku Solver in C++
 
-![](https://thumbs.gfycat.com/EntireUnawareAoudad-mobile.mp4)
+![](https://thumbs.gfycat.com/EntireUnawareAoudad-mobile.gif)
 
 This is a C++ program that solves Sudoku puzzles using recursion and backtracking. It provides two options: you can either input your own Sudoku puzzle (up to a maximum of 100 rows and columns) or use a default 9x9 Sudoku grid. Simply input '0' to indicate an empty space in the puzzle.
 
